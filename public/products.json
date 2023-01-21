@@ -1,0 +1,56 @@
+[
+  {
+    "id": "63347488a87f3c3905af832c",
+    "index": 0,
+    "picture": "https://images.pexels.com/photos/1144864/pexels-photo-1144864.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "age": 33,
+    "time": 37,
+    "name": "Man in Red and Black Shorts",
+    "details": "Most health clubs have a main workout area, which primarily consists of free weights including dumbbells and barbells and the stands and benches used with these items and exercise machines, which use gears, cables and other mechanisms to guide the user's exercise."
+  },
+  {
+    "id": "6334748829dd57e0430fadd8",
+    "index": 1,
+    "picture": "https://images.pexels.com/photos/6389865/pexels-photo-6389865.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "age": 36,
+    "time": 39,
+    "name": "Gray Floor",
+    "details": "A cardio theater or cardio area includes many types of cardiovascular training-related equipment such as rowing machines, stationary exercise bikes, elliptical trainers and treadmills."
+  },
+  {
+    "id": "633474888be0c784d27614e5",
+    "index": 2,
+    "picture": "https://images.pexels.com/photos/3837743/pexels-photo-3837743.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "age": 27,
+    "time": 20,
+    "name": "workout in modern gym",
+    "details": "Most 2010-era health clubs offer group exercise classes that are conducted by certified fitness instructors or trainers. Group exercise classes are often considered the most important service in the centers for members' engagement."
+  },
+  {
+    "id": "63347488e47aee11c92ba04b",
+    "index": 3,    
+    "picture": "https://images.pexels.com/photos/3839058/pexels-photo-3839058.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "age": 23,
+    "time": 25,
+    "name": "metal bar in gym",
+    "details": "Some health clubs offer sports facilities such as a swimming pools, squash courts, indoor running tracks, ice rinks, or boxing areas. In some cases, additional fees are charged for the use of these facilities."
+  },
+  {
+    "id": "6334748829e77e164281aa7e",
+    "index": 4,    
+    "picture": "https://images.pexels.com/photos/703012/pexels-photo-703012.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "age": 21,
+    "time": 32,
+    "name": "Man Holding Black Barbell",
+    "details": "Most health clubs employ personal trainers who are accessible to members for training/fitness/nutrition/health advice and consultation. Personal trainers can devise a customized fitness routine, sometimes including a nutrition plan, to help clients achieve their goals."
+  },
+  {
+    "id": "63347488052ed5b7b32a6de2",
+    "index": 5,    
+    "picture": "https://images.pexels.com/photos/931321/pexels-photo-931321.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+    "age": 21,
+    "time": 30,
+    "name": "Person Carrying Black Barbell",
+    "details": "Newer health clubs generally include health-shops selling equipment, snack/protein bars and smoothies, restaurants, child-care facilities, member lounges and cafes. Some clubs have a sauna, steam room, or swimming pool and even nutrition counseling."
+  }
+]
